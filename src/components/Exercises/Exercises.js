@@ -17,7 +17,7 @@ const Exercises = (props) => {
         onClick={() => props.handleAddToDetails(props.exercise)}
         className="btn-exercise"
       >
-        <p className="btn-text">Add to Details</p>
+        <h3 className="btn-text">Add to Details</h3>
       </button>
     </div>
   );

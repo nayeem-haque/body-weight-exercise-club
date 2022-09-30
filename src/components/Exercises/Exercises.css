@@ -43,8 +43,16 @@
   justify-content: center;
 }
 
-.btn-exercise .btn-text {
+.btn-exercise {
   margin-right: 5px;
+}
+
+.btn-text {
+ 
+  background-color: rgb(43, 93, 228);
+  margin: 10px;
+  padding: 5px;
+  
 }
 
 .btn-exercise:hover {

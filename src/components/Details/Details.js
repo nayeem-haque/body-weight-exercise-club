@@ -80,7 +80,7 @@ const Details = ({ cart }) => {
         </div>
       </div><br />
       <h2>Exercise Details</h2><br />
-      <h4>Exercise Time: {total}s</h4><br />
+      <h4 >Exercise Time: {total}s</h4><br />
       <h4>Break Time: {cnt}s</h4><br />
       <button>Activity Completed</button>
       <br />

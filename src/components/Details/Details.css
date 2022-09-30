@@ -1,12 +1,14 @@
 .details {
   position: sticky;
   top: 0;
-  margin-left: 20px;
+  margin-left: 5px;
   margin-top: 28px;
+  padding-right: 5px;
 }
 .personal{
   margin-right: 5px;
   margin: 2px;
+  
 }
 .break button {
   margin: 2px;

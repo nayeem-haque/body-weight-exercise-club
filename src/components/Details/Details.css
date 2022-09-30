@@ -1,18 +1,19 @@
 .details {
   position: sticky;
   top: 0;
-  margin-left: 28px;
+  margin-left: 20px;
   margin-top: 28px;
 }
-
+.personal{
+  margin-right: 5px;
+  margin: 2px;
+}
 .break button {
   margin: 2px;
 }
 
 .btn-exercise:hover {
-  background-color: rgb(167, 137, 82);
+  background-color: rgb(233, 222, 202);
 }
 
-.small {
-  color: red;
-}
+

@@ -27,15 +27,23 @@ const Details = ({ cart }) => {
   return (
     <div className="details">
       <div>
-        <h2>MD TAMZIDUL ALAM</h2>
+        <h2>Nayeem Haque</h2>
         <span>Dhaka, Bangladesh</span>
         <br />
         <br />
-        <br />
-        <h3>
-          Add a break{" "}
-          <small className="small">(Please double click on button!)</small>
-        </h3> <br />
+        <div className="personal">
+          <button>
+            Weight 75kg
+          </button>
+          <button>
+            Height 5.9
+          </button>
+          <button>
+            Age 25yrs
+          </button>
+        </div>
+        <br/>
+        <h3> Add a break{" "}  </h3> <br/>
         <div className="break">
           <button
             onClick={() => {

@@ -9,7 +9,7 @@ const Header = () => {
       <nav className="header">
         <div className="icon">
           <FontAwesomeIcon icon="faDumbbell"></FontAwesomeIcon>
-          <h2 className="text">Home Workout Session</h2>
+          <h2 className="text">Bodyweight Exercise</h2>
         </div>
       </nav>
     </div>

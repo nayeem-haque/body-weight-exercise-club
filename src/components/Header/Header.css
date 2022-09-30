@@ -1,6 +1,6 @@
 .header {
   height: 80px;
-  background-color: #668eaa;
+  background-color: #7de4df;
   display: flex;
   align-items: center;
   justify-content: space-between;
@@ -9,7 +9,7 @@
 }
 
 .text {
-  color: #ffffff;
+  color: #030303;
 }
 
 .icon{

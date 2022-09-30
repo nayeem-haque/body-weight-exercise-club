@@ -1,0 +1,52 @@
+.practice {
+  width: 300px;
+  height: 350px;
+  border: 1px solid #0d0e0e;
+  border-radius: 8px;
+  position: relative;
+}
+
+.practice img {
+  width: 286px;
+  height: 186px;
+  border-radius: 8px;
+  margin: 7px;
+}
+
+.exercise-name {
+  font-family: "Lato";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 21px;
+  line-height: 25px;
+  margin-top: 7px;
+}
+
+.exercise-info {
+  margin: 0 14px;
+}
+
+.exercise-info p {
+  margin-bottom: 0;
+  margin-top: 5px;
+}
+
+.btn-exercise {
+  width: 100%;
+  background: #d4d0ca;
+  border: none;
+  border-radius: 0px 0px 8px 8px;
+  position: absolute;
+  bottom: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.btn-exercise .btn-text {
+  margin-right: 5px;
+}
+
+.btn-exercise:hover {
+  background-color: rgb(167, 137, 82);
+}

@@ -1,18 +1,18 @@
 .practice-container {
   display: grid;
   grid-template-columns: 4fr 1fr;
-  background-color: rgb(182, 177, 170);
+  background-color: rgb(241, 198, 136);
 }
 
 .exercises-container {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
-  gap: 15px;
+  gap: 25px;
   margin: 25px 50px;
 }
 
 .cart-container {
-  background-color: rgb(211, 192, 192);
+  background-color: rgb(19, 126, 126)2);
   margin-bottom: 5px;
 }
 

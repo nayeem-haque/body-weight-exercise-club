@@ -33,7 +33,7 @@
 
 .btn-exercise {
   width: 100%;
-  background: #d4d0ca;
+  background: #63f1e6;
   border: none;
   border-radius: 0px 0px 8px 8px;
   position: absolute;
@@ -43,18 +43,14 @@
   justify-content: center;
 }
 
-.btn-exercise {
-  margin-right: 5px;
-}
-
-.btn-text {
+.btn-exercise .btn-text{
  
-  background-color: rgb(43, 93, 228);
   margin: 10px;
   padding: 5px;
-  
 }
 
+
+
 .btn-exercise:hover {
-  background-color: rgb(167, 137, 82);
+  background-color: rgb(228, 218, 223);
 }

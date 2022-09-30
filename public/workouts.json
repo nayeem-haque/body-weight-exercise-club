@@ -21,22 +21,22 @@
   },
   {
     "id": "4bf9798f-63bc-4a83-b0c6-6a3b816fe922",
-    "name": "Dumbbell Rows",
-    "img": "https://www.crossfit.com/wp-content/uploads/2019/04/03111458/Bent-Over-Row-Collage-1024x576.png",
+    "name": "Leg Press",
+    "img": "https://hips.hearstapps.com/hmg-prod/images/workouts/2017/10/legpress-1509458589.gif",
     "time": 10,
     "quantity": 0
   },
   {
     "id": "9496d72b-04ec-41f8-9bc3-0a7c9697be8e",
-    "name": "Planks",
-    "img": "https://barbend.com/wp-content/uploads/2019/01/BarBend-Feature-Image-1200-x-675-2021-06-02T165505.056.jpg",
+    "name": "Dumbbell Biceps Curl",
+    "img": "https://hips.hearstapps.com/hmg-prod/images/workouts/2016/03/dumbbellcurl-1457043876.gif",
     "time": 15,
     "quantity": 0
   },
   {
     "id": "6e5593d3-557b-43cf-8dab-a5140faedfb0",
     "name": "Jumping Jacks",
-    "img": "https://www.researchgate.net/profile/Mohammed-Abou-Elmagd/publication/341734848/figure/fig1/AS:896516470362114@1590757591713/Sample-of-Jumping-Jacks-Exercise-4.png",
+    "img": "https://hips.hearstapps.com/hmg-prod/images/workouts/2016/03/jumpingjack-1457045563.gif",
     "time": 30,
     "quantity": 0
   }

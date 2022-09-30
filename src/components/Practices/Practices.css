@@ -1,7 +1,7 @@
 .practice-container {
   display: grid;
   grid-template-columns: 4fr 1fr;
-  background-color: rgb(241, 198, 136);
+  background-color: rgb(243, 219, 188);
 }
 
 .exercises-container {
@@ -12,7 +12,7 @@
 }
 
 .cart-container {
-  background-color: rgb(19, 126, 126)2);
+  background-color: rgb(243, 240, 240)2);
   margin-bottom: 5px;
 }
 

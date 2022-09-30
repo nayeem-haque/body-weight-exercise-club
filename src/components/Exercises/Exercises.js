@@ -24,3 +24,5 @@ const Exercises = (props) => {
 };
 
 export default Exercises;
+
+

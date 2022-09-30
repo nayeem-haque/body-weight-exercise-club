@@ -8,8 +8,11 @@ const Header = () => {
     <div>
       <nav className="header">
         <div className="icon">
-          <FontAwesomeIcon icon="faDumbbell"></FontAwesomeIcon>
-          <h2 className="text">Bodyweight Exercise</h2>
+        <i class="fa-thin fa-dumbbell"></i>
+          <div className="flex">
+          <h2 className="text">Bodyweight Exercise</h2> <br />
+          <h4 className="paragraph" > Select Today's Exercise</h4>
+          </div>
         </div>
       </nav>
     </div>

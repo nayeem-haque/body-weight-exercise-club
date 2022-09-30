@@ -4,14 +4,17 @@
   display: flex;
   align-items: center;
   justify-content: space-between;
-  padding-left: 80px;
+  padding-left: 50px;
   padding-right: 140px;
 }
 
 .text {
   color: #030303;
+  padding-top: 40px;
 }
-
+.paragraph{
+  margin-top: 5px;
+}
 .icon{
   bottom: 0;
   display: flex;
